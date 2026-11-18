@@ -1,5 +1,5 @@
 # 🤵 Hi, I'm Diego:
-Fourth-year software engineering student, with a backend data analysis and algorithm development oriented profile.<br>Currently developing studies on model inference data to debug error logs of web platforms for my TFG.
+Recently graduated from Software Engineering, with a backend data analysis and algorithm development oriented profile.<br>Currently developing studies on model inference data to debug error logs of web platforms for my TFG.
 
 
 ## 🌐 Socials:
